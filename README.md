@@ -55,3 +55,11 @@ Strategic Planning & IBP Lead:
 - Diseño del marco de decisión
 - Definición de reglas Go / No-Go
 - Integración analítica con visión ejecutiva
+
+Streamlit app
+
+<img width="1364" height="579" alt="image" src="https://github.com/user-attachments/assets/7da3f124-4b2d-43d1-8a91-ea76cc3a03b5" />
+<img width="1365" height="434" alt="image" src="https://github.com/user-attachments/assets/783bc346-47e1-4fdc-b6e9-5592a208ea28" />
+<img width="1365" height="503" alt="image" src="https://github.com/user-attachments/assets/f8ef2cbd-f847-436d-bc63-eeb62d4d8dd4" />
+
+
